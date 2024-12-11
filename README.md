@@ -9,4 +9,6 @@ Functional Requirements
 5) The app should support Reset operation that resets the board to its original state.
 6) The controls should be disabled when there is nothing to undo, redo, or reset.
 
+Demo: https://nishantpadhi.github.io/Circle-game/
+
 <img width="633" alt="Screenshot 2024-12-11 at 5 22 41 PM" src="https://github.com/user-attachments/assets/2b612321-04f4-4318-ab3d-577373225812">
