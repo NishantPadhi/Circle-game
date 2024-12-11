@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.circle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.button {
+  width: 60px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-right: 8px;
+  border-radius: 8px;
+  background-color: #c7c9c8;
+  color: #2d3631;
+  border: 0px;
+}
+
+.btnActive {
+  background-color: #33b86f;
+  color: white;
+  cursor: pointer;
+}
