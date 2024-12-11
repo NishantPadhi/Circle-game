@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Circle-game/static/css/main.71f5430a.css",
+    "main.js": "/Circle-game/static/js/main.e72a6a5c.js",
+    "index.html": "/Circle-game/index.html",
+    "main.71f5430a.css.map": "/Circle-game/static/css/main.71f5430a.css.map",
+    "main.e72a6a5c.js.map": "/Circle-game/static/js/main.e72a6a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f5430a.css",
+    "static/js/main.e72a6a5c.js"
+  ]
+}
